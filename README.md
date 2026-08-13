@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
