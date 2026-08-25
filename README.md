@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -41,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
