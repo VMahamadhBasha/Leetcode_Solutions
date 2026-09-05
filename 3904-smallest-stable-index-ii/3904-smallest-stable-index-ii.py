@@ -8,8 +8,7 @@ class Solution:
                 sm[i]=nums[i]
                 r=i
             else:
-                sm[i]=nums[r]
-            
+                sm[i]=nums[r]   
         for i in range(len(nums)):
             if nums[i]>=nums[m]:
                 m=i
