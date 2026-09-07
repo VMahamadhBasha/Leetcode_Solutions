@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
@@ -51,6 +53,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VMahamadhBasha/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
